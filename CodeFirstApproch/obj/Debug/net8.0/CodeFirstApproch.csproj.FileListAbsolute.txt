@@ -250,3 +250,4 @@ D:\Code\Dot Net\CodeFirstApproch\bin\Debug\net8.0\runtimes\win\lib\net7.0\Micros
 D:\Code\Dot Net\CodeFirstApproch\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Code\Dot Net\CodeFirstApproch\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Code\Dot Net\CodeFirstApproch\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Code\Dot Net\codefirstapproch\obj\Debug\net8.0\CodeFirstApproch.sourcelink.json

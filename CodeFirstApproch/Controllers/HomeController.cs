@@ -1,5 +1,6 @@
 using CodeFirstApproch.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace CodeFirstApproch.Controllers
@@ -21,11 +22,31 @@ namespace CodeFirstApproch.Controllers
             this.studentDB = studentDB;
         }
 
-        [HttpGet]
-        public IActionResult Index()
+
+      
+        public async Task <IActionResult> Index()
         {
-            var stdData = studentDB.Employees.ToList();
+            var stdData = await studentDB.Employees.ToListAsync();
             return View(stdData);
+        }
+        [HttpGet]
+        public IActionResult Create()
+        {
+            
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Create(Employee emp)
+        {
+            if (ModelState.IsValid) 
+            {
+                await studentDB.Employees.AddAsync(emp);
+                await studentDB.SaveChangesAsync();
+                return RedirectToAction("Index","Home");
+
+            }
+
+            return View(emp);
         }
 
         public IActionResult Privacy()
