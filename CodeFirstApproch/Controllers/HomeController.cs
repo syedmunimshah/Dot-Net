@@ -16,19 +16,19 @@ namespace CodeFirstApproch.Controllers
         //    _logger = logger;
         //}
 
-        private readonly StudentDBContext studentDB;
+        private readonly StudentDBContext _studentDB;
         public HomeController(StudentDBContext studentDB)
         {
-            this.studentDB = studentDB;
+            _studentDB = studentDB;
         }
 
 
-      
         public async Task <IActionResult> Index()
         {
-            var stdData = await studentDB.Employees.ToListAsync();
+            var stdData= await _studentDB.Employees.ToListAsync();
             return View(stdData);
         }
+      
         [HttpGet]
         public IActionResult Create()
         {
@@ -40,14 +40,36 @@ namespace CodeFirstApproch.Controllers
         {
             if (ModelState.IsValid) 
             {
-                await studentDB.Employees.AddAsync(emp);
-                await studentDB.SaveChangesAsync();
+                await _studentDB.Employees.AddAsync(emp);
+                await _studentDB.SaveChangesAsync();
                 return RedirectToAction("Index","Home");
 
             }
 
             return View(emp);
         }
+
+        public async Task <IActionResult> Details(int id)
+        {
+            var stdData = await _studentDB.Employees.FirstOrDefaultAsync(x=> x.Id == id);
+            return View(stdData);
+        }
+
+      public  async Task<IActionResult> Edit(int id)
+
+        {
+            var stdData =await _studentDB.Employees.FindAsync(id);
+            return View(stdData);
+        }
+        [HttpPost]
+        public async Task <IActionResult> Edit(int id,Employee emp)
+
+        {
+            var stdData =  _studentDB.Employees.Update(emp);
+           await _studentDB.SaveChangesAsync(); 
+            return RedirectToAction("Index","Home");
+        }
+
 
         public IActionResult Privacy()
         {

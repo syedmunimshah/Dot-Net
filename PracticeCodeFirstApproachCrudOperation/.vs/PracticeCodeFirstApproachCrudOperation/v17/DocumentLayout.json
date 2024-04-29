@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Dot Net\\PracticeCodeFirstApproachCrudOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4E42A6-5D6B-44AC-87A9-71C49C1FB0D1}|PracticeCodeFirstApproachCrudOperation.csproj|d:\\code\\dot net\\practicecodefirstapproachcrudoperation\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4E42A6-5D6B-44AC-87A9-71C49C1FB0D1}|PracticeCodeFirstApproachCrudOperation.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4E42A6-5D6B-44AC-87A9-71C49C1FB0D1}|PracticeCodeFirstApproachCrudOperation.csproj|d:\\code\\dot net\\practicecodefirstapproachcrudoperation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4E42A6-5D6B-44AC-87A9-71C49C1FB0D1}|PracticeCodeFirstApproachCrudOperation.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4E42A6-5D6B-44AC-87A9-71C49C1FB0D1}|PracticeCodeFirstApproachCrudOperation.csproj|d:\\code\\dot net\\practicecodefirstapproachcrudoperation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E4E42A6-5D6B-44AC-87A9-71C49C1FB0D1}|PracticeCodeFirstApproachCrudOperation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\PracticeCodeFirstApproachCrudOperation\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\PracticeCodeFirstApproachCrudOperation\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:43:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\PracticeCodeFirstApproachCrudOperation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Dot Net\\PracticeCodeFirstApproachCrudOperation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T19:32:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\PracticeCodeFirstApproachCrudOperation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\PracticeCodeFirstApproachCrudOperation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwEkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:47:45.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
