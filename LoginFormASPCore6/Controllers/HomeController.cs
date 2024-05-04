@@ -68,6 +68,24 @@ namespace LoginFormASPCore6.Controllers
             return View();
         }
 
+        public IActionResult Register()
+        {
+            return View();
+
+        }
+        [HttpPost]
+
+        public async Task <IActionResult> Register(Employee emp)
+        {
+            if (ModelState.IsValid)
+            {
+                 await _codeFirstDbContext.Employees.AddAsync(emp);
+                await _codeFirstDbContext.SaveChangesAsync();
+                TempData["Success"] = "Registered Successfully";
+                return RedirectToAction("Login", "Home");
+            }
+            return View();
+        }
 
 
 

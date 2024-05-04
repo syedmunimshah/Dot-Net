@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginFormASPCore6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ef2ff484d5b7886820b651386e60c2761c8731")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df6440e45e72a09e9ed514199ee69c63c0f06eca")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginFormASPCore6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginFormASPCore6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
