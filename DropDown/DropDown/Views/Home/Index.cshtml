@@ -1,0 +1,6 @@
+﻿@model DropDown.Models.StudentModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<label class="form-label">Select Student Name </label>
+<select asp-for="Id" class="form-control"asp-items="@(new SelectList(Model.StudentList,"Value","Text"))"></select>

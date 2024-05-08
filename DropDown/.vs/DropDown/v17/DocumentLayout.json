@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Dot Net\\DropDawn\\DropDown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E54A9E-7811-46EC-861F-26922F72C135}|DropDown\\DropDown.csproj|d:\\code\\dot net\\dropdawn\\dropdown\\dropdown\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E54A9E-7811-46EC-861F-26922F72C135}|DropDown\\DropDown.csproj|solutionrelative:dropdown\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E54A9E-7811-46EC-861F-26922F72C135}|DropDown\\DropDown.csproj|D:\\Code\\Dot Net\\DropDawn\\DropDown\\dropdown\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E54A9E-7811-46EC-861F-26922F72C135}|DropDown\\DropDown.csproj|solutionrelative:dropdown\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E54A9E-7811-46EC-861F-26922F72C135}|DropDown\\DropDown.csproj|D:\\Code\\Dot Net\\DropDawn\\DropDown\\dropdown\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2E54A9E-7811-46EC-861F-26922F72C135}|DropDown\\DropDown.csproj|solutionrelative:dropdown\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDawn\\DropDown\\DropDown\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DropDown\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDawn\\DropDown\\DropDown\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DropDown\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T20:22:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDawn\\DropDown\\DropDown\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "DropDown\\Models\\StudentModel.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDawn\\DropDown\\DropDown\\Models\\StudentModel.cs",
+              "RelativeToolTip": "DropDown\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:57:48.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDawn\\DropDown\\DropDown\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DropDown\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDawn\\DropDown\\DropDown\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DropDown\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:46:06.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
