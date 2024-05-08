@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Dot Net\\codefirstapproch\\CodeFirstApproch.csproj": {}
+    "D:\\Code\\Dot Net\\CodeFirstApproch\\CodeFirstApproch.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Dot Net\\codefirstapproch\\CodeFirstApproch.csproj": {
+    "D:\\Code\\Dot Net\\CodeFirstApproch\\CodeFirstApproch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Dot Net\\codefirstapproch\\CodeFirstApproch.csproj",
+        "projectUniqueName": "D:\\Code\\Dot Net\\CodeFirstApproch\\CodeFirstApproch.csproj",
         "projectName": "CodeFirstApproch",
-        "projectPath": "D:\\Code\\Dot Net\\codefirstapproch\\CodeFirstApproch.csproj",
+        "projectPath": "D:\\Code\\Dot Net\\CodeFirstApproch\\CodeFirstApproch.csproj",
         "packagesPath": "C:\\Users\\syedm\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Dot Net\\codefirstapproch\\obj\\",
+        "outputPath": "D:\\Code\\Dot Net\\CodeFirstApproch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\syedm\\AppData\\Roaming\\NuGet\\NuGet.Config",

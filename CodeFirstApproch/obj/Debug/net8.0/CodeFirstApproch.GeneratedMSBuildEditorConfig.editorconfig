@@ -17,51 +17,51 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CodeFirstApproch
 build_property.RootNamespace = CodeFirstApproch
-build_property.ProjectDir = D:\Code\Dot Net\codefirstapproch\
+build_property.ProjectDir = D:\Code\Dot Net\CodeFirstApproch\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Code\Dot Net\codefirstapproch
+build_property.MSBuildProjectDirectory = D:\Code\Dot Net\CodeFirstApproch
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Home/Create.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Home/Details.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Home/Edit.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Home/Index.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Home/Privacy.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Shared/Error.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/_ViewImports.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/_ViewStart.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/Dot Net/codefirstapproch/Views/Shared/_Layout.cshtml]
+[D:/Code/Dot Net/CodeFirstApproch/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0ovy1xo2g3
