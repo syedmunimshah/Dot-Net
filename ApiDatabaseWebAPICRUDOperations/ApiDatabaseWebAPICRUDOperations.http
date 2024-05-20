@@ -1,0 +1,6 @@
+@ApiDatabaseWebAPICRUDOperations_HostAddress = http://localhost:5183
+
+GET {{ApiDatabaseWebAPICRUDOperations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
