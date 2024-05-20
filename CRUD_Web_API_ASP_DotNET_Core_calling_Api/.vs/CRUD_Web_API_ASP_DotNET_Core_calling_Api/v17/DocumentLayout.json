@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC354EB2-E30E-4B32-9928-5BD1B309BFE5}|CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api.csproj|d:\\code\\dot net\\crud_web_api_asp_dotnet_core_calling_api\\crud_web_api_asp_dotnet_core_calling_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC354EB2-E30E-4B32-9928-5BD1B309BFE5}|CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api.csproj|solutionrelative:crud_web_api_asp_dotnet_core_calling_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC354EB2-E30E-4B32-9928-5BD1B309BFE5}|CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api.csproj|D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\crud_web_api_asp_dotnet_core_calling_api\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC354EB2-E30E-4B32-9928-5BD1B309BFE5}|CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api.csproj|solutionrelative:crud_web_api_asp_dotnet_core_calling_api\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC354EB2-E30E-4B32-9928-5BD1B309BFE5}|CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api.csproj|d:\\code\\dot net\\crud_web_api_asp_dotnet_core_calling_api\\crud_web_api_asp_dotnet_core_calling_api\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC354EB2-E30E-4B32-9928-5BD1B309BFE5}|CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api.csproj|solutionrelative:crud_web_api_asp_dotnet_core_calling_api\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:05:33.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:56:54.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Models\\StudentModel.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Models\\StudentModel.cs",
+              "RelativeToolTip": "CRUD_Web_API_ASP_DotNET_Core_calling_Api\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:53:13.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

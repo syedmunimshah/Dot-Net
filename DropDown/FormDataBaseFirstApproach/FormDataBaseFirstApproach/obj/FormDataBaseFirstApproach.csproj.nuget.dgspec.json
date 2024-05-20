@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj": {}
+    "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj": {
+    "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj",
+        "projectUniqueName": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj",
         "projectName": "FormDataBaseFirstApproach",
-        "projectPath": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj",
+        "projectPath": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj",
         "packagesPath": "C:\\Users\\syedm\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\obj\\",
+        "outputPath": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\syedm\\AppData\\Roaming\\NuGet\\NuGet.Config",
