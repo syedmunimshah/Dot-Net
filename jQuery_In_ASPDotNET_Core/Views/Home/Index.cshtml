@@ -1,0 +1,163 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div> use ajax
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="mb-3">
+                <label for="Name" class="form-label">Name</label>
+                <input type="text" class="form-control" id="Name" placeholder="Name">
+            </div>
+            <div class="mb-3">
+                <label for="LastName" class="form-label">Last Name</label>
+                <input type="text" class="form-control" id="LastName" placeholder="LastName">
+            </div>
+                <button class="btn btn-info" onclick="display()">Add</button>
+               
+        
+        </div>
+        <br />
+
+  
+        <h3 id="result"></h3>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="mb-3">
+                <label for="Num1" class="form-label">Num1</label>
+                <input type="text" class="form-control" id="Num1" placeholder="Num1">
+            </div>
+            <div class="mb-3">
+                <label for="Num2" class="form-label">Num2</label>
+                <input type="text" class="form-control" id="Num2" placeholder="Num2">
+            </div>
+
+            <button class="btn btn-info" onclick="CalCulation()">Add</button>
+               
+        </div>
+        <br />
+
+        <h3 id="result1"></h3>
+    </div>
+</div>
+</div>
+
+<div>
+    Passing data to controller to view in AJAX and <strong>jQuery</strong>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="mb-3">
+                    <label for="Num1Calc" class="form-label">Num1</label>
+                    <input type="text" class="form-control" id="Num1Calc" placeholder="Num1">
+                </div>
+                <div class="mb-3">
+                    <label for="Num2Calc" class="form-label">Num2</label>
+                    <input type="text" class="form-control" id="Num2Calc" placeholder="Num2">
+                </div>
+
+                <button class="btn btn-info" onclick="Cal()">Add</button>
+                <button class="btn btn-info" onclick="Cal1()">Sub</button>
+            </div>
+            <br />
+        </div>
+        <h3 id="result3"></h3>
+    </div>
+</div>
+
+<div>
+    Passing data to model to view in AJAX and <strong>jQuery</strong>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="mb-3">
+                    <label for="Num1Calc" class="form-label">Num1</label>
+                    <input type="text" class="form-control" id="Num1Calc" placeholder="Num1">
+                </div>
+                <div class="mb-3">
+                    <label for="Num2Calc" class="form-label">Num2</label>
+                    <input type="text" class="form-control" id="Num2Calc" placeholder="Num2">
+                </div>
+                <button class="btn btn-info" onclick="Cal()">Add</button>
+               
+            </div>
+            <br />
+        </div>
+        <h3 id="result4"></h3>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+    // $(document).ready(function () {
+    //     alert("Welcom to Jquery");
+    // });
+
+    function display() {
+
+        var name = $("#Name").val();
+        var LastName = $("#LastName").val();
+
+        var data = name + " " + LastName;
+
+        $("#result").text(data);
+
+    }
+
+    function CalCulation() {
+        var Num1 = parseInt($("#Num1").val());
+        var Num2 = parseInt($("#Num2").val());
+     
+        var data = Num1 + Num2;
+        $("#result1").text(data);
+
+    }
+
+
+
+    function Cal() {
+        var n1 = $("#Num1Calc").val();
+        var n2 = $("#Num2Calc").val();
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("Add", "Home")',
+            data: { num1: n1, num2: n2 },
+            dataType: 'text',
+            success: function (response, status, xhr) {
+                $("#result3").text(response);
+                console.log(response);
+            },
+            error: function (req, status, error) {
+                $("#result3").text(error);
+            }
+        });
+    }
+
+
+    function Cal1() {
+        var n1 = $("#Num1Calc").val();
+        var n2 = $("#Num2Calc").val();
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("Sub", "Home")',
+            data: { num1: n1, num2: n2 },
+            dataType: 'text',
+            success: function (response, status, xhr) {
+                $("#result3").text(response);
+                console.log(response);
+            },
+            error: function (req, status, error) {
+                $("#result3").text(error);
+            }
+        });
+    }
+
+</script>
