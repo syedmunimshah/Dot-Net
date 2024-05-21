@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|d:\\code\\dot net\\core_web_api_crud_operations\\core_web_api_crud_operations\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|solutionrelative:core_web_api_crud_operations\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\core_web_api_crud_operations\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|solutionrelative:core_web_api_crud_operations\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\core_web_api_crud_operations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|solutionrelative:core_web_api_crud_operations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\core_web_api_crud_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D8667F-96D7-40A6-8A99-2EC2CBCA2EF7}|Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations.csproj|solutionrelative:core_web_api_crud_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\appsettings.json",
+              "RelativeDocumentMoniker": "Core_Web_API_CRUD_Operations\\appsettings.json",
+              "ToolTip": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\appsettings.json",
+              "RelativeToolTip": "Core_Web_API_CRUD_Operations\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T18:55:43.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\Program.cs",
+              "RelativeDocumentMoniker": "Core_Web_API_CRUD_Operations\\Program.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\Program.cs",
+              "RelativeToolTip": "Core_Web_API_CRUD_Operations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:55:36.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "Core_Web_API_CRUD_Operations\\Models\\Emp.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\Models\\Emp.cs",
+              "RelativeToolTip": "Core_Web_API_CRUD_Operations\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:35:54.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentApiController.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\Controllers\\StudentApiController.cs",
+              "RelativeDocumentMoniker": "Core_Web_API_CRUD_Operations\\Controllers\\StudentApiController.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\Core_Web_API_CRUD_Operations\\Core_Web_API_CRUD_Operations\\Controllers\\StudentApiController.cs",
+              "RelativeToolTip": "Core_Web_API_CRUD_Operations\\Controllers\\StudentApiController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:25:55.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\",
+  "WorkspaceRootPath": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|d:\\code\\practice dot net\\dropdawn\\formdatabasefirstapproach\\formdatabasefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|d:\\code\\dot net\\dropdown\\formdatabasefirstapproach\\formdatabasefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|solutionrelative:formdatabasefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|d:\\code\\practice dot net\\dropdawn\\formdatabasefirstapproach\\formdatabasefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|solutionrelative:formdatabasefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|d:\\code\\practice dot net\\dropdawn\\formdatabasefirstapproach\\formdatabasefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\formdatabasefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|solutionrelative:formdatabasefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\formdatabasefirstapproach\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\formdatabasefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|solutionrelative:formdatabasefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\formdatabasefirstapproach\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|solutionrelative:formdatabasefirstapproach\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\formdatabasefirstapproach\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\formdatabasefirstapproach\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{171462C9-9E48-4C50-BA99-8638813C25BC}|FormDataBaseFirstApproach\\FormDataBaseFirstApproach.csproj|solutionrelative:formdatabasefirstapproach\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,38 +35,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Edit.cshtml",
-              "RelativeDocumentMoniker": "FormDataBaseFirstApproach\\Views\\Home\\Edit.cshtml",
-              "ToolTip": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Edit.cshtml",
-              "RelativeToolTip": "FormDataBaseFirstApproach\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T21:34:25.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T15:29:12.837Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "FormDataBaseFirstApproach\\Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "FormDataBaseFirstApproach\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "FormDataBaseFirstApproach\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T21:31:36.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T15:29:00.129Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FormDataBaseFirstApproach\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FormDataBaseFirstApproach\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAAwJ0AAAAJAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwC8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T19:57:31.308Z",
               "EditorCaption": ""
@@ -75,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Emp.cs",
-              "DocumentMoniker": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Emp.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Emp.cs",
               "RelativeDocumentMoniker": "FormDataBaseFirstApproach\\Models\\Emp.cs",
-              "ToolTip": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Emp.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Emp.cs",
               "RelativeToolTip": "FormDataBaseFirstApproach\\Models\\Emp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Gender.cs",
-              "DocumentMoniker": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Gender.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "FormDataBaseFirstApproach\\Models\\Gender.cs",
-              "ToolTip": "D:\\Code\\Practice Dot Net\\DropDawn\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Gender.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\DropDown\\FormDataBaseFirstApproach\\FormDataBaseFirstApproach\\Models\\Gender.cs",
               "RelativeToolTip": "FormDataBaseFirstApproach\\Models\\Gender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
