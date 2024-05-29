@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|d:\\code\\dot net\\crud_ado_dotnet\\crud_ado_dotnet\\employessdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|solutionrelative:crud_ado_dotnet\\employessdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|d:\\code\\dot net\\crud_ado_dotnet\\crud_ado_dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\crud_ado_dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|solutionrelative:crud_ado_dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|d:\\code\\dot net\\crud_ado_dotnet\\crud_ado_dotnet\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|solutionrelative:crud_ado_dotnet\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|d:\\code\\dot net\\crud_ado_dotnet\\crud_ado_dotnet\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|solutionrelative:crud_ado_dotnet\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|d:\\code\\dot net\\crud_ado_dotnet\\crud_ado_dotnet\\models\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|solutionrelative:crud_ado_dotnet\\models\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\crud_ado_dotnet\\employessdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F351878E-329D-4045-AF38-85CA6F0D7CDF}|CRUD_ADO_DotNET\\CRUD_ADO_DotNET.csproj|solutionrelative:crud_ado_dotnet\\employessdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "CRUD_ADO_DotNET\\Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "CRUD_ADO_DotNET\\Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T20:51:23.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_DotNET\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CRUD_ADO_DotNET\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwCIAAAARAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswE8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T20:11:53.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployessDataAccessLayer.cs",
               "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\EmployessDataAccessLayer.cs",
               "RelativeDocumentMoniker": "CRUD_ADO_DotNET\\EmployessDataAccessLayer.cs",
               "ToolTip": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\EmployessDataAccessLayer.cs",
               "RelativeToolTip": "CRUD_ADO_DotNET\\EmployessDataAccessLayer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCoAAAALAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAIwGwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T19:48:22.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employess.cs",
-              "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\Models\\Employess.cs",
-              "RelativeDocumentMoniker": "CRUD_ADO_DotNET\\Models\\Employess.cs",
-              "ToolTip": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\Models\\Employess.cs",
-              "RelativeToolTip": "CRUD_ADO_DotNET\\Models\\Employess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T19:45:28.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConnectionString.cs",
-              "DocumentMoniker": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\ConnectionString.cs",
-              "RelativeDocumentMoniker": "CRUD_ADO_DotNET\\ConnectionString.cs",
-              "ToolTip": "D:\\Code\\Dot Net\\CRUD_ADO_DotNET\\CRUD_ADO_DotNET\\ConnectionString.cs",
-              "RelativeToolTip": "CRUD_ADO_DotNET\\ConnectionString.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T19:38:11.257Z",
               "EditorCaption": ""
             }
           ]

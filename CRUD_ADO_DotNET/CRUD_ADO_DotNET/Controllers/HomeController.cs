@@ -39,7 +39,57 @@ namespace CRUD_ADO_DotNET.Controllers
             }
            
         }
+        public IActionResult Edit(int id)
+        {  Employess emp =_employessDataAccessLayer.GetEmployeeById(id);
+            return View(emp);
+        }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(Employess emp)
+        {
+            try
+            {
+                _employessDataAccessLayer.UpdateEmployee(emp);
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+
+                return View();
+            }
+
+        }
+
+
+        public IActionResult Details(int id)
+        {
+            Employess emp = _employessDataAccessLayer.GetEmployeeById(id);
+            return View(emp);
+        }
+
+        public IActionResult Delete(int id)
+        {
+            Employess emp = _employessDataAccessLayer.GetEmployeeById(id);
+            return View(emp);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Delete(Employess emp)
+        {
+            try
+            {
+                _employessDataAccessLayer.DeleteEmployee(emp.Id);
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+
+                return View();
+            }
+
+        }
         public IActionResult Privacy()
         {
             return View();
