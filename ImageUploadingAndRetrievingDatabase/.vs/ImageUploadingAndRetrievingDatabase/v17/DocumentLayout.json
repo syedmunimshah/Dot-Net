@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|d:\\code\\dot net\\imageuploadingandretrievingdatabase\\imageuploadingandretrievingdatabase\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|solutionrelative:imageuploadingandretrievingdatabase\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|d:\\code\\dot net\\imageuploadingandretrievingdatabase\\imageuploadingandretrievingdatabase\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|solutionrelative:imageuploadingandretrievingdatabase\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|d:\\code\\dot net\\imageuploadingandretrievingdatabase\\imageuploadingandretrievingdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|solutionrelative:imageuploadingandretrievingdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|d:\\code\\dot net\\imageuploadingandretrievingdatabase\\imageuploadingandretrievingdatabase\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A451E6B-3DE4-4ECF-AEFF-CA267A3CEA17}|ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase.csproj|solutionrelative:imageuploadingandretrievingdatabase\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ImageUploadingAndRetrievingDatabase\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "ImageUploadingAndRetrievingDatabase\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:15:11.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAndRetrievingDatabase\\Models\\ProductViewModel.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "ImageUploadingAndRetrievingDatabase\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:58:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAndRetrievingDatabase\\Models\\Product.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Models\\Product.cs",
+              "RelativeToolTip": "ImageUploadingAndRetrievingDatabase\\Models\\Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:51:34.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAndRetrievingDatabase\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\ImageUploadingAndRetrievingDatabase\\ImageUploadingAndRetrievingDatabase\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ImageUploadingAndRetrievingDatabase\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:52:09.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
