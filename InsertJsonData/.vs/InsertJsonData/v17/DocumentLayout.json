@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Dot Net\\InsertJsonData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3322DEFC-97BC-4919-AB9A-7BBF7B5CA8A6}|InsertJsonData\\InsertJsonData.csproj|d:\\code\\dot net\\insertjsondata\\insertjsondata\\controllers\\insertdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3322DEFC-97BC-4919-AB9A-7BBF7B5CA8A6}|InsertJsonData\\InsertJsonData.csproj|solutionrelative:insertjsondata\\controllers\\insertdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3322DEFC-97BC-4919-AB9A-7BBF7B5CA8A6}|InsertJsonData\\InsertJsonData.csproj|D:\\Code\\Dot Net\\InsertJsonData\\insertjsondata\\models\\cakemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3322DEFC-97BC-4919-AB9A-7BBF7B5CA8A6}|InsertJsonData\\InsertJsonData.csproj|solutionrelative:insertjsondata\\models\\cakemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3322DEFC-97BC-4919-AB9A-7BBF7B5CA8A6}|InsertJsonData\\InsertJsonData.csproj|D:\\Code\\Dot Net\\InsertJsonData\\insertjsondata\\dto\\cakedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3322DEFC-97BC-4919-AB9A-7BBF7B5CA8A6}|InsertJsonData\\InsertJsonData.csproj|solutionrelative:insertjsondata\\dto\\cakedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CakeDto.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\InsertJsonData\\InsertJsonData\\Dto\\CakeDto.cs",
+              "RelativeDocumentMoniker": "InsertJsonData\\Dto\\CakeDto.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\InsertJsonData\\InsertJsonData\\Dto\\CakeDto.cs",
+              "RelativeToolTip": "InsertJsonData\\Dto\\CakeDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:24:15.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CakeModel.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\InsertJsonData\\InsertJsonData\\Models\\CakeModel.cs",
+              "RelativeDocumentMoniker": "InsertJsonData\\Models\\CakeModel.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\InsertJsonData\\InsertJsonData\\Models\\CakeModel.cs",
+              "RelativeToolTip": "InsertJsonData\\Models\\CakeModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:05:38.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertDataController.cs",
+              "DocumentMoniker": "D:\\Code\\Dot Net\\InsertJsonData\\InsertJsonData\\Controllers\\InsertDataController.cs",
+              "RelativeDocumentMoniker": "InsertJsonData\\Controllers\\InsertDataController.cs",
+              "ToolTip": "D:\\Code\\Dot Net\\InsertJsonData\\InsertJsonData\\Controllers\\InsertDataController.cs",
+              "RelativeToolTip": "InsertJsonData\\Controllers\\InsertDataController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:04:36.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
