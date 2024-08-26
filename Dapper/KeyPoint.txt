@@ -1,0 +1,17 @@
+pakages
+Dapper =>Apache
+Microsoft.Data.SqlClient
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+
+appsettings
+Models
+Service => IStudentServices StudentService (StudentService : IStudentServices)
+
+
+"ConnectionStrings":{"DBConnsction":"Data Source=.; Initial Catalog=StudentDb"}
+
+
